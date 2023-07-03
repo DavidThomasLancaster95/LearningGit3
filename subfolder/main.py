@@ -1,3 +1,7 @@
 print("mainFunction")
 
-print("use file a")
+<<<<<<< HEAD
+print("use file x")
+=======
+print("use file xs")
+>>>>>>> bad_branch
